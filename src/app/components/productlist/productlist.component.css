@@ -1,0 +1,10 @@
+table {
+    background-color: lightgray;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
